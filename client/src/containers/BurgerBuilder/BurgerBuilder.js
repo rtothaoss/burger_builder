@@ -10,7 +10,7 @@ import withErrorHandling from '../../containers/withErrorHandling/withErrorHandl
 import axios from '../../axios_orders'
 
 
-class BurgerBuilder extends Component {
+export class BurgerBuilder extends Component {
 
     state = {
         purchasing: false,
