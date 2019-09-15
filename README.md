@@ -1,4 +1,4 @@
-tou# BurgerApp
+# BurgerApp
 *React app that allows the user to build a burger and store past orders*
 
 ![alt text](https://media.giphy.com/media/mCzHbKP0RDuiloLsTn/giphy.gif 'Burger App in Action')
@@ -13,6 +13,29 @@ In order to use every aspect of the project you will need to sign in. If you wou
 
 Username: test123@test.com
 Password: password
+
+
+### Follow these steps to use the app:
+
+#### Clone Repository
+Paste this line of code into your terminal
+
+`` git clone git@github.com:rtothaoss/burger_builder.git ``
+
+#### Install Dependencies 
+Install all the necessary packages for the app to run correctly.
+
+``` npm install ```
+
+This app also uses expo. Be sure to check it out [here](https://expo.io/tools#client) 
+
+``  npm install expo-cli --global  ``
+
+#### Usage
+
+Start up the app by using
+
+`` npm start ``
 
 ### Technologies Used:
 * React
