@@ -27,10 +27,6 @@ Install all the necessary packages for the app to run correctly.
 
 ``` npm install ```
 
-This app also uses expo. Be sure to check it out [here](https://expo.io/tools#client) 
-
-``  npm install expo-cli --global  ``
-
 #### Usage
 
 Start up the app by using
