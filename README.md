@@ -33,6 +33,10 @@ Start up the app by using
 
 `` npm start ``
 
+The running app is available in your browser on 
+
+`` http://localhost:3000 ``
+
 ### Technologies Used:
 * React
 * React-Redux
